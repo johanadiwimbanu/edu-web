@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  background: #040046;
+  color: white;
+}
+
+nav {
+  margin-bottom: 1.2rem;
+}
+
+footer {
+  color: white;
+  background: #040046;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.card,
+.list-group-item {
+  color: white;
+  background: #040046 !important;
+}
+
+li.list-group-item {
+  border: 8px solid #ddd;
+}
+
+.table-responsive {
+  margin-top: 20px;
+}
+
+.list-group-item {
+  background-color: #f8f9fa;
+  border: 1px solid #ddd;
+}
+
+.card-title {
+  margin-bottom: 15px;
+}
